@@ -10,8 +10,7 @@ export const DeviceManagement = () => {
       <p className="page-subtitle">
         Add details of the device, if any already installed on your car. If
         none, then continue to next step.
-      </p>
-      ={" "}
+      </p>{" "}
       <div className="device-card">
         <h3 className="device-title">Device 1</h3>
         <div className="row-1" style={{ display: "flex", gap: "20px" }}>
